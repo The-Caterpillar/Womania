@@ -2,9 +2,7 @@ Womania
 
 A women-centered health and wellness platform designed to educate, uplift, and support women through science-backed information, activities, breathing exercises, and affirmations.
 
-🌍 Live Demo
-
-Add link once deployed.
+🌍 Live Demo : https://womaniaforwomen.vercel.app/
 
 📌 Description
 
