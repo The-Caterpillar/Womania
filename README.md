@@ -10,6 +10,24 @@ Add link once deployed.
 
 Womania is a front-end web project built to provide a visually engaging and informative space where women can learn about hormonal health, physical well-being, mental wellness, and menstrual awareness. The design uses motion + content to build engagement, with scroll animations powered by AOS.
 
+📸 Preview :
+
+Landing Page
+![Landing Section](./screenshots/landing.png)
+
+Pitch
+![understand our biology](./screenshots/understand_your_biology.png)
+
+Breathing App
+![Breathing](./screenshots/breathing.png)
+
+Affirmations App
+![Affirmations](./screenshots/affirmations.png)
+
+Stay Healthy cards
+![Breathing](./screenshots/Stay_healthy.png)
+
+
 The site includes:
 
 About section
@@ -104,22 +122,6 @@ womania/
          ├── appimg.png
          └── ...
 
-📸 Preview :
-
-Landing Page
-![Landing Section](./screenshots/landing.png)
-
-Pitch
-![understand our biology](./screenshots/understand_your_biology.png)
-
-Breathing App
-![Breathing](./screenshots/breathing.png)
-
-Affirmations App
-![Affirmations](./screenshots/affirmations.png)
-
-Stay Healthy cards
-![Breathing](./screenshots/Stay_healthy.png)
 
 🚧 Future Enhancements
 
